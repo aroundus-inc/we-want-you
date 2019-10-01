@@ -4,4 +4,8 @@
 
 ### [백엔드 개발자 채용](./backend.md)
 
+> Scala, Java, AWS
+
 ### [프런트엔드 개발자 채용](./frontend.md)
+
+> React, Mobx, Javascript, Typescript
