@@ -10,6 +10,6 @@
 
 > React, Mobx, Javascript, Typescript
 
-### [모바일 앱 개발자 채용](./frontend.md)
+### [모바일 앱 개발자 채용](./mobile-app.md)
 
 > Flutter, React-Native, Android, iOS
